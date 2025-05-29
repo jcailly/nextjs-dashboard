@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import { lusitana } from '@/app/ui/fonts';
 import {
   AtSymbolIcon,
